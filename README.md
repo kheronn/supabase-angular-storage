@@ -2,7 +2,7 @@
 
 A application upload using version 11 of Angular and Supabase.
 
-[![CRUD](https://raw.githubusercontent.com/kheronn/Supabase-Angular/main/src/assets/todo-supabase-angular.gif)
+[![CRUD](https://github.com/kheronn/supabase-angular-storage/blob/main/src/assets/storage_supabase.gif)
 
 
 ## Tutorial
